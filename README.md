@@ -19,7 +19,7 @@ flight_price_predictor/
 └── README.md # Project documentation
 
 
----
+
 
 ## 🚀 Getting Started
 
@@ -35,7 +35,7 @@ source venv/bin/activate   # For Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 streamlit run app.py
-
+```
 📥 User Input
 Airline: Dropdown (e.g., IndiGo, Air India)
 
@@ -46,7 +46,7 @@ Destination: Dropdown (e.g., Cochin, Kolkata)
 Flight Date: Date picker
 
 Duration: Text input (e.g., "2h 30m")
-
+-----------
 📦 Requirements
 streamlit
 pandas
@@ -66,6 +66,6 @@ Ensure preprocessing.py contains a preprocess_input function that transforms use
 ![Screenshot (67)](https://github.com/user-attachments/assets/a3d002a1-2ae0-4d93-bcbe-b593234f0d22)
 
 
----
+
 email: vishalpawar3696@gmail.com
 Let me know if you’d like me to generate `preprocessing.py` or help with `app.py` content too.
